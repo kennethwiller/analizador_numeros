@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(27, 126, 255, 0.39);
+    font: normal 15pt Arial;
+}
+
+header{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: rgb(241, 237, 237);
+}
+
+section {
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+    
+}
+
+select {
+    width: 150px;
+    margin-top: 20px;
+}
+
+
+
+
+footer {
+    font-style: italic;
+}
